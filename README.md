@@ -1,4 +1,7 @@
-//Proyecto Ecommerce React
+//Proyecto Ecommerce React by Douglas Dunke
+DEPLOY https://clonemeta.netlify.app/
+REPOSITORIO https://github.com/dunkem/PROYECTOREACTJS2
+LINKEDIN https://www.linkedin.com/in/douglas-dunke/
 
 `Clone Tienda Meta`
 
